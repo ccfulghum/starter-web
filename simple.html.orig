@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+<<<<<<< HEAD
+	<title>ALTAB website new title</title>
+=======
+	<title>This a website new title</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Just some content - new text for changes to look at
+		</p>
+	</main>
+	<footer class="container">
+<<<<<<< HEAD
+		<p>&copy; altab 2023 2014</p>
+=======
+		<p>&copy; Company 2023 tm</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
